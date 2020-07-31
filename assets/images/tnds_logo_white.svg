@@ -1,0 +1,6 @@
+<svg width="1151.039990234375px" height="150.839990234375px" xmlns="http://www.w3.org/2000/svg" viewBox="-325.5199951171875 -0.41999511718749716 1151.039990234375 150.839990234375" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;" preserveAspectRatio="xMidYMid"><defs><filter id="editing-extrusion" x="-100%" y="-100%" width="300%" height="300%"><feFlood result="color1" flood-color="#444"></feFlood><feConvolveMatrix order="2,2" divisor="1" kernelMatrix="1 0 0 1" in="SourceAlpha" result="extrude"></feConvolveMatrix><feComposite in="color1" in2="extrude" result="comp-extrude" operator="in"></feComposite><feOffset dx="1" dy="1" in="comp-extrude" result="offset-extrude"></feOffset><feMerge><feMergeNode in="offset-extrude"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g filter="url(#editing-extrusion)"><g transform="translate(-16.814987182617188, 84.92000007629395)"><path d="M124.03-35.14L118.53-35.14L115.39-54.98L126.40-54.98L124.03-35.14ZM137.79-35.14L132.29-35.14L129.15-54.98L140.16-54.98L137.79-35.14ZM402.11-35.14L396.61-35.14L393.47-54.98L404.48-54.98L402.11-35.14ZM415.87-35.14L410.37-35.14L407.23-54.98L418.24-54.98L415.87-35.14Z" fill="#ccc"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
