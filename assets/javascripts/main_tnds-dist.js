@@ -45101,8 +45101,8 @@ $(document).ready(function() {
                 success : function(data) {
                     // console.log(data);
                     swal({
-                      title:"Great!",
-                      text: "Our team will validate your application and get back to you soon.",
+                      title:"Отлично!",
+                      text: "Наша команда проверит вашу заявку и свяжется с вами в ближайшее время.",
                       type: "success",
                       confirmButtonText: "Done",
                       confirmButtonColor: '#0B102A'
@@ -45113,8 +45113,8 @@ $(document).ready(function() {
                 },
                 error : function( ) {
                     swal({
-                      title: "Oops...",
-                      text: "An error has occurred please try again",
+                      title: "Упс...",
+                      text: "Произошла ошибка, попробуйте еще раз",
                       type: "error",
                       confirmButtonText: "Ok",
                       confirmButtonColor: '#004AFF'
@@ -45155,8 +45155,8 @@ $(document).ready(function() {
         } else {
             // alert('Please fill in all required fields');
             swal({
-              title: "Oops...",
-              text: "Please fill in all required fields!",
+              title: "Упс...",
+              text: "Пожалуйста, заполните все обязательные поля!",
               type: "error",
               confirmButtonText: "Ok",
               confirmButtonColor: '#004AFF'
@@ -45197,18 +45197,18 @@ $(document).ready(function() {
                 success : function(data) {
                     // console.log('eNVIADO');
                     swal({
-                      title: "Great!",
-                      text: "Tiago will contact you soon!",
+                      title: "Отлично!",
+                      text: "Саша свяжется с вами скоро!",
                       type: "success",
-                      confirmButtonText: "Done",
+                      confirmButtonText: "Ok",
                       confirmButtonColor: '#0B102A'
                     });
                 },
                 error : function( ) {
                     console.log("error");
                     swal({
-                      title: "Oops...",
-                      text: "An error has occurred please try again",
+                      title: "Упс...",
+                      text: "Произошла ошибка, попробуйте еще раз",
                       type: "error",
                       confirmButtonText: "Ok",
                       confirmButtonColor: '#004AFF'
@@ -45218,8 +45218,8 @@ $(document).ready(function() {
         } else {
             // alert('Please fill in all required fields');
             swal({
-              title: "Oops...",
-              text: "Please fill in all required fields!",
+              title: "Упс...",
+              text: "Пожалуйста, заполните все обязательные поля!",
               type: "error",
               confirmButtonText: "Ok",
               confirmButtonColor: '#004AFF'
